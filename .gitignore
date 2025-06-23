@@ -1,6 +1,7 @@
 # Ignorar node_modules en cualquier sistema
 node_modules/
 
+
 # Archivos de sistema macOS
 .DS_Store
 
